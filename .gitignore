@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.env*.local
+test-results/
+playwright-report/
+*.tsbuildinfo
+.agents/
+artifacts/
+skills-lock.json
